@@ -6,3 +6,7 @@
 ###### Now I've begun Markdown
 
 ![Optiical Illusion](https://images.news18.com/ibnlive/uploads/2023/01/untitled-design-14-13-16741109723x2.png?impolicy=website&width=510&height=356)
+
+``` javascript
+The name is = "Sinaan Sulaiman";
+```
