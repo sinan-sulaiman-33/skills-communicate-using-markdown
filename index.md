@@ -5,4 +5,4 @@
 ##### Around an year back, I completed the Introduction to GitHub course
 ###### Now I've begun Markdown
 
-! [Optiical Illusion] (https://hips.hearstapps.com/hmg-prod/images/full-frame-shot-of-psychedelic-pattern-royalty-free-image-1602093995.jpg?resize=1200:*)
+! [Optiical Illusion] (https://images.news18.com/ibnlive/uploads/2023/01/untitled-design-14-13-16741109723x2.png?impolicy=website&width=510&height=356)
