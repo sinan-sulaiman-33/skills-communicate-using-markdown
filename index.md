@@ -10,3 +10,9 @@
 ``` javascript
 The name is = "Sinan Sulaiman";
 ```
+
+- [X] Verify my work until Step 3
+- [ ] Works after Step 3
+- [X] Currently on Step 4
+- [X] Will be completed soon
+- [ ] No more changes to make
